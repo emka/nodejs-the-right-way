@@ -1,0 +1,1 @@
+Examples from the book [Node.js the Right Way: Practical, Server-Side JavaScript That Scales](http://pragprog.com/book/jwnode/node-js-the-right-way) by Jim R. Wilson
