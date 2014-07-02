@@ -1,2 +1,4 @@
 target.txt
 node_modules/
+databases/rdf-files.tar.bz2
+databases/cache/
