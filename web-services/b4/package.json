@@ -1,0 +1,16 @@
+{
+  "name": "b4",
+  "version": "0.1.0",
+  "description": "B4, The Better Book Bundle Builder.",
+  "author": "Mitja Kleider <mitja@kleider.name> (http://mitja.kleider.name/)",
+  "scripts": {
+    "start": "node --harmony ./server.js"
+  },
+  "dependencies": {
+    "connect-redis": "~1.4.5",
+    "express": "~4.4.5",
+    "morgan": "~1.1.1",
+    "q": "^1.0.1",
+    "request": "^2.36.0"
+  }
+}

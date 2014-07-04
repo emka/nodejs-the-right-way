@@ -1,0 +1,13 @@
+{
+  "name": "hello",
+  "version": "0.1.0",
+  "description": "Hello World express example.",
+  "author": "Mitja Kleider <mitja@kleider.name> (http://mitja.kleider.name/)",
+  "scripts": {
+    "start": "node --harmony ./server.js"
+  },
+  "dependencies": {
+    "express": "~4.4.5",
+    "morgan": "~1.1.1"
+  }
+}
