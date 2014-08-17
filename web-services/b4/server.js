@@ -12,6 +12,7 @@ const config = {
 };
 
 require('./lib/field-search.js')(config, app);
+require('./lib/bundle.js')(config, app);
 
 app.listen(3000, function(){
 	console.log("ready captain.");
