@@ -1,4 +1,5 @@
 target.txt
 node_modules/
+bower_components/
 databases/rdf-files.tar.bz2
 databases/cache/
